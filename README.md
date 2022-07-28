@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahisethuraman
 - 👀 I’m interested in distributed systems design and machine learning 
-- 🌱 I’m currently learning Flask 
+- 🌱 I’m currently learning Python and Flask 
 - 💞️ I’m looking to collaborate on scaling sytems
 - 📫 How to reach me Email: Mahi.Sethuraman@affirm.com Twitter @mahisethuraman 
 
